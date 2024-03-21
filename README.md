@@ -1,7 +1,7 @@
 
 
 ### Main Tech Stack 
-Python, Django, FastAPI \
+Python, Golang, Django, FastAPI \
 PostgreSQL, MySql, ElasticSearch, Redis, RabbitMQ
 
 
